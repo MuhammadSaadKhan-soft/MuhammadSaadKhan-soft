@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, javascript, node js**
 
-- 📫 How to reach me **saadhussaini678@gmail.com**
+- 📫 How to reach me **saadhussaini678@gmail.com** [(https://www.linkedin.com/in/muhammad-saad-7aa884273/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
