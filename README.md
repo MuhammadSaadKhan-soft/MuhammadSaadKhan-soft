@@ -25,16 +25,23 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadSaadKhan-soft&show_icons=true&locale=en&layout=compact" alt="MuhammadSaadKhan-soft" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadKhan-soft&show_icons=true&locale=en" alt="MuhammadSaadKhan-soft" /></p>
 
-<div align="center">
-    
-  ![snake gif](https://github.com/MuhammadSaadKhan-soft/MuhammadSaadKhan-soft/blob/output/github-snake-dark.svg)
-</div>
 
-<!-- Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=MuhammadSaadKhan-soft&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/MuhammadSaadKhan-soft">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadKhan-soft&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/MuhammadSaadKhan-soft">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadKhan-soft&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="MuhammadSaadKhan-soft's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+
+
 
