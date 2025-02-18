@@ -27,4 +27,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadSaadKhan-soft&show_icons=true&locale=en" alt="MuhammadSaadKhan-soft" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadKhan-soft&" alt="MuhammadSaadKhan-soft" /></p>
+<div align="center">
+    
+  ![snake gif](https://github.com/MuhammadSaadKhan-soft/MuhammadSaadKhan-soft/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=MuhammadSaadKhan-soft&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
+
