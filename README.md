@@ -4,7 +4,6 @@
 <img align="right" width="400" src="https://avatars.githubusercontent.com/u/115546231?v=4"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaad001&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad001" /> </p>
 
-- 🔭 I’m currently working on React js [Roomey chatrooms](https://github.com/Muhammadsaad001/Roomey-Chatrooms-Fyp)
 
 - 🌱 I’m currently learning **React js , React native , Django**
 
@@ -29,13 +28,7 @@
 
 
 
-## &#x1f4c8; GitHub Stats
 
-
-
-<a href="https://github.com/MuhammadSaadKhan-soft">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadKhan-soft&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 
 <br>
