@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammadsaad001/Muhammad-Saad-Hussain/blob/main/Untitled%205.png)
+![logo]
 <h1 align="center">Hi 👋, I'm Muhammad Saad Hussain</h1>
 <h3 align="center">A passionate MERN stack developer </h3>
 <img align="right" width="400" src="https://avatars.githubusercontent.com/u/115546231?v=4"/>
