@@ -1,38 +1,83 @@
+<div align="center">
+  
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+  
+</div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Saad Hussain</h1>
-<h3 align="center">A passionate MERN stack developer </h3>
-<img align="right" width="400" src="https://avatars.githubusercontent.com/u/115546231?v=4"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsaad001&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaad001" /> </p>
+<div align="center">
+  
+<h1>Hi 👋, I'm Muhammad Saad Hussain</h1>
+<h3>A passionate MERN stack developer</h3>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel)](https://saadhussainportfolio.netlify.app/)
 
+<h2>🛠️ My Tech Stack</h2>
 
-- 🌱 I’m currently learning **React js , React native , Django**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,github,git,vscode,postman,figma&perline=8)](https://skillicons.dev)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammadsaad001](https://github.com/Muhammadsaad001)
+</div>
 
-- 💬 Ask me about **react, javascript, node js**
-
-- 📫 How to reach me **saadhussaini678@gmail.com** [(https://www.linkedin.com/in/muhammad-saad-7aa884273/)]
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nightmaresaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nightmaresaad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad saad hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad saad hussain" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<!-- Animated Icons Section -->
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-<br>
-<br>
+<div align="center">
+  
+<h1>📊 Stats</h1>
+  
+![Statistics](https://github-readme-stats.vercel.app/api?username=MuhammadSaadKhan-soft&show_icons=true&theme=nightowl)
+  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadKhan-soft&theme=nightowl)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadKhan-soft&layout=compact&theme=nightowl&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 
 
+<div align="center">
+  
+<h1>📈 GitHub Activity Graph</h1>
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSaadKhan-soft&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
+
+<div align="center">
+  
+<h1>🌐 Connect with me</h1>
+  
+[![Twitter](https://img.shields.io/badge/nightmaresaad-follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/nightmaresaad)
+[![LinkedIn](https://img.shields.io/badge/Muhammad%20Saad-connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-saad-7aa884273/)
+[![GitHub](https://img.shields.io/badge/MuhammadSaadKhan-follow-black?style=for-the-badge&logo=github)](https://github.com/MuhammadSaadKhan-soft)
+[![Email](https://img.shields.io/badge/Email-saadhussaini678@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:saadhussaini678@gmail.com)
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
+
+<div align="center">
+  
+<h1>🚀 About Me</h1>
+  
+🌱 I'm currently learning **React.js, Next.js, and Docker**
+  
+💻 I work with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+  
+🛠️ Experienced with **PostgreSQL, Docker, and GitHub Actions**
+  
+👨‍💻 All of my projects are available at **[GitHub](https://github.com/MuhammadSaadKhan-soft)**
+  
+💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, PostgreSQL**
+  
+📫 How to reach me **saadhussaini678@gmail.com**
+  
+🌐 Check out my portfolio at **[saadhussainportfolio.netlify.app](https://saadhussainportfolio.netlify.app/)**
+  
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSaadKhan-soft&label=Profile%20views&color=0e75b6&style=flat)
+  
+<i>Let's connect and build something amazing together!</i>
+  
+</div>
