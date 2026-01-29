@@ -23,7 +23,6 @@
   
 ![Statistics](https://github-readme-stats.vercel.app/api?username=MuhammadSaadKhan-soft&show_icons=true&theme=nightowl)
   
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaadKhan-soft&theme=nightowl)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaadKhan-soft&layout=compact&theme=nightowl&hide=html)](https://github.com/anuraghazra/github-readme-stats)
   
